@@ -3,7 +3,7 @@ import MarketingApp from './components/marketingApp';
 
 
 export default () => {
-    console.log('hola mundo!');
+    console.log('hola mundo! 2');
     return <div>
         <h1>Hello there!</h1>
         <hr />
